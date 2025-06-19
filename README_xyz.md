@@ -34,5 +34,3 @@ Explore our intuitive interface and customize your tracking preferences.
 Stay informed with real-time notifications and data visualizations.
 Join the DATA.TRACK.TTL community today and discover the power of transparent and customizable EVM tracking. Experience the future of blockchain monitoring and take control of your crypto journey.
 
-
-
