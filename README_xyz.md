@@ -21,7 +21,6 @@ Receive real-time notifications and updates on your tracked data, including tran
 Visualize your data with our interactive charts and graphs, providing you with a comprehensive overview of your portfolio and market trends.
 Benefits:
 
-
 Enhanced Security: DATA.TRACK.TTL helps you monitor your assets and detect potential security threats, such as unauthorized transactions or suspicious activity.
 Investment Decisions: Our tool provides you with the insights you need to make informed investment decisions, helping you stay ahead of market trends and identify profitable opportunities.
 Development: DATA.TRACK.TTL is an invaluable resource for developers, allowing you to track project progress, identify potential bugs, and optimize your smart contracts.
