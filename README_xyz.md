@@ -16,8 +16,7 @@ User-Friendly Interface: DATA.TRACK.TTL boasts a user-friendly interface that's 
 How it Works:
 
 Connect your Ethereum wallet to DATA.TRACK.TTL and grant the necessary permissions to access your transaction history and account information.///////////
-///////////Connect your Ethereum wallet to DATA.TRACK.TTL and grant the necessary permissions to access your transaction history and account information.
-///////////Connect your Ethereum wallet to DATA.TRACK.TTL and grant the necessary permissions to access your transaction history and account information.
+///// information.
 ///////////Connect your Ethereum wallet to DATA.TRACK.TTL and grant the necessary permissions to access your transaction history and account information.
 ///////////Connect your Ethereum wallet to DATA.TRACK.TTL and grant the necessary permissions to access your transaction history and account information.
 ///////////Connect your Ethereum wallet to DATA.TRACK.TTL and grant the necessary permissions to access your transaction history and account information.
