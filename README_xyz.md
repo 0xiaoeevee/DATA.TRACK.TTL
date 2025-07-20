@@ -18,8 +18,7 @@ How it Works:
 ///////////Connect your Ethereum wallet to DATA.TRACK.TTL and grant the necessary permissions to access your transaction history and account information.
 ///////////Connect your Ethereum wallet to DATA.TRACK.TTL and grant the necessary permissions to access your transaction history and account information.
 ///////////Connect your Ethereum wallet to DATA.TRACK.TTL and grant the necessary permissions to access your transaction history and account information.
-///////////Connect your Ethereum wallet to DATA.TRACK.TTL and grant the necessary permissions to access your transaction history and account information.
-///////////
+
 Customize your tracking preferences by setting up filters for specific events, transactions, or addresses.
 Receive real-time notifications and updates on your tracked data, including transaction confirmations, balances, and more.
 Visualize your data with our interactive charts and graphs, providing you with a comprehensive overview of your portfolio and market trends.
