@@ -19,7 +19,7 @@ How it Works
 Customize your tracking preferences by setting up filters for specific events, transactions, or addresses.
 Receive real-time notifications and updates on your tracked data, including transaction confirmations, balances, and more.
 Visualize your data with our interactive charts and graphs, providing you with a comprehensive overview of your portfolio and market trends.
-Benefits:
+Benefits
 
 Enhanced Security: DATA.TRACK.TTL helps you monitor your assets and detect potential security threats, such as unauthorized transactions or suspicious activity.
 Investment Decisions: Our tool provides you with the insights you need to make informed investment decisions, helping you stay ahead of market trends and identify profitable opportunities.
