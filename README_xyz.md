@@ -13,7 +13,7 @@ EVM Compatibility: Our tool supports all EVM-compatible chains, including Ethere
 User-Friendly Interface: DATA.TRACK.TTL boasts a user-friendly interface that's easy to navigate, even for those new to blockchain technology. Our intuitive design ensures that you can quickly find the information you need.
 
 How it Works
-
+v
 /Connect your Ethereum wallet to DATA.TRACK.TTL and grant the necessary permissions to access your transaction history and account information.
 
 Customize your tracking preferences by setting up filters for specific events, transactions, or addresses.
