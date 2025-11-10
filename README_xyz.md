@@ -28,4 +28,4 @@ Business Intelligence: Businesses can leverage DATA.TRACK.TTL to monitor their c
 Sign up for an account on our website and connect your Ethereum wallet.
 Explore our intuitive interface and customize your tracking preferences.
 Stay informed with real-time notifications and data visualizations.
-Join the DATA.TRACK.TTL community today and discover the power of transparent and customizable EVM tracking. Experience the future of blockchain monitoring and take control of your crypto journey....7.
+Join the DATA.TRACK.TTL community today and discover the power of transparent and customizable EVM tracking. Experience the future of blockchain monitoring and take control of your crypto journey.
