@@ -11,7 +11,7 @@ DATA.TRACK.TTL offers real-time analytics, providing you with up-to-the-minute i
 EVM Compatibility: Our tool supports all EVM-compatible chains, including Ethereum, Binance Smart Chain (BSC), Polygon (MATIC), and more.
 User-Friendly Interface: DATA.TRACK.TTL boasts a user-friendly interface that's easy to navigate, even for those new to blockchain technology. Our intuitive design ensures that you can quickly find the information you need.
 
-How it Works`
+How it Works` a
 
 Connect your Ethereum wallet to DATA.TRACK.TTL and grant the necessary permissions to access your transaction history and account information.
 
